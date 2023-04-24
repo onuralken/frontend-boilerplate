@@ -1,7 +1,10 @@
 {
-  "importOrder": [
-    "^[./]"
-  ],
+  "printWidth": 200,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "semi": true,
+  "arrowParens": "avoid",
+  "importOrder": ["^[./]"],
   "importOrderSeparation": true,
   "importOrderSortSpecifiers": true
 }
